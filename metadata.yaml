@@ -1,0 +1,43 @@
+_repo: Herr-und-Knecht--Novelle_33266
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Röhl, Hermann
+    aliases:
+    - Rohl, Hermann
+    - Röhl, H. (Hermann)
+    gutenberg_agent_id: '36296'
+    url: http://www.gutenberg.org/2009/agents/36296
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoï, Léon
+    - Толстой, Лев Николаевич
+    - Tolstoi, Leo
+    - Tolstoy, Lev N.
+    - Tolstoy, Graf Leo
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33266'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into German'
+- !lcsh 'Didactic fiction'
+- !lcc 'PG'
+title: 'Herr und Knecht: Novelle'
+url: http://www.gutenberg.org/ebooks/33266
